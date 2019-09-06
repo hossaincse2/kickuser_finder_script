@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 24, 2016, 1:45:44 AM
+    Author     : RS
+*/
+
+
+
+.navbar-nav > li {
+    float: left;
+    padding-right: 23px;
+}
+.load_buton2{
+    margin-left: 270px !important;
+    margin-right: 240px !important;
+    text-align: center;
+}
+.rs_hot > li > a {
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+    padding-bottom: 11px !important;
+    padding-left: 11px !important;
+    padding-right: 11px !important;
+    padding-top: 11px !important;
+}

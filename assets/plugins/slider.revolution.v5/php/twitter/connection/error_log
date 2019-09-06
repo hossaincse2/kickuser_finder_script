@@ -1,0 +1,2 @@
+[26-Mar-2016 10:59:15 UTC] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/kikuser/public_html/assets/plugins/slider.revolution.v5/php/twitter/connection/User.php on line 5
+[26-Mar-2016 13:30:30 UTC] PHP Fatal error:  Class 'TwitterPhp\Connection\Base' not found in /home/kikuser/public_html/assets/plugins/slider.revolution.v5/php/twitter/connection/Application.php on line 7
